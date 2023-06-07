@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+#define W 10
+//Autor: Rui Malemba
+/*Data: 20-05-2023*/
+int a[];
+char nome[20];
+double m, n, r, s;
+float media(int a, float c, char q, double s[]);
+char w[7];
+double e = 5.0;
+void a(){
+ int b;
+   if(b == 2)
+	printf("%i", b);
+}
+
+int main(void)
+{
+  double x, y, z, w;
+  int c[11];
+  char b;
+  double aux = 12.5;	
+  scanf("%d", &c);
+
+   for(i = 1; i <= 5; i++){
+	printf("%d \n", i);
+   }
+   media(11, 23.3, 'a');
+   a(5);
+  b = '5';
+  printf("b: %c", b);
+  if(0) {break;}
+  return 0;
+}
